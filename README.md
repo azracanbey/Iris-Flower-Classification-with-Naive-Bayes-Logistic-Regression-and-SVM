@@ -17,7 +17,7 @@ The dataset is preprocessed with standard scaling and label encoding. The models
 
 ## Dataset
 
-The [Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris) contains 150 samples of iris flowers from three species (Setosa, Versicolor, Virginica) with 4 features each:  
+The [Iris dataset](https://www.kaggle.com/datasets/uciml/iris/data) contains 150 samples of iris flowers from three species (Setosa, Versicolor, Virginica) with 4 features each:  
 
 - Sepal Length  
 - Sepal Width  
